@@ -37,7 +37,7 @@ subtitle = "Indexing Services<br> for academic, business, and personal projects.
   
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
