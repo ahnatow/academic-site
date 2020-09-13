@@ -37,7 +37,7 @@ subtitle = "Indexing"
   
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -53,24 +53,25 @@ subtitle = "Indexing"
 
 Indexing services for academic, business, and personal projects. 
 
-## Heading 2
-**Services.**
+
+##**Services.**
+
 Detailed and nuanced indexes that include the big picture, themes, and abstract points in addition to key terms.
 Emphasis on reader experience.
 
-**Academia.**
+##**Academia.**
 
 Firsthand knowledge of the essential role indexes play, from research to the seminar room. Conscious of readers who will turn the index first, and that not all books are read cover to cover. 
 
-**Business.**
+##**Business.**
 
 Indexes for reports, white papers, guides, and other documents, whether internal or outward-facing. Appreciation that quickly locating key information is essential whether within the office or for one’s clients. 
 
-**Personal.** 
+##**Personal.** 
 
 Indexes for memoirs or independent research projects that support your work and aid your readers. 
 
-**About me.**
+##**About me.**
 
 PhD in History. 
 BA in French and History, Phi Beta Kappa.
@@ -78,4 +79,5 @@ Experience working at university presses as well as freelance copy editing and i
 
 
 Please contact to discuss terms appropriate to your project.
+
 Willing to discuss terms for projects requiring rapid turnaround.
