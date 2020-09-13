@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Andrew Hnatow"
-subtitle = "Indexing Services"
+subtitle = "Indexing Services<br> for academic, business, and personal projects. "
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,9 +50,6 @@ subtitle = "Indexing Services"
  # CSS class.
  css_class = ""
 +++
-
-Indexing services for academic, business, and personal projects. 
-
 
 ## **Services.**
 
