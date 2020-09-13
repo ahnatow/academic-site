@@ -14,6 +14,7 @@ menu_primary = "#494949"
 menu_text = "#fff"
 menu_text_active = "#328cc1"
 menu_title = "#fff"
+menu_background = "jasmine william morris.jpg"
 
 # Backgrounds
 background = "#fff"
