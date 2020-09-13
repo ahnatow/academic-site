@@ -55,6 +55,7 @@ subtitle = "Indexing"
 
 Indexing services for academic, business, and personal projects. 
 
+Heading 2
 **Services.**
 Detailed and nuanced indexes that include the big picture, themes, and abstract points in addition to key terms.
 Emphasis on reader experience.
@@ -69,6 +70,13 @@ Indexes for reports, white papers, guides, and other documents, whether internal
 
 **Personal.** 
 Indexes for memoirs or independent research projects that support your work and aid your readers. 
+
+**About me.**
+
+PhD in History. 
+BA in French and History, Phi Beta Kappa.
+Experience working at university presses as well as freelance copy editing and indexing.
+
 
 Please contact to discuss terms appropriate to your project.
 Willing to discuss terms for projects requiring rapid turnaround.
