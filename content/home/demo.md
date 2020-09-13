@@ -25,8 +25,8 @@ subtitle = "Indexing"
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  gradient_start = "ffffff"
+  gradient_end = "dfdfdf"
   
   # Background image.
   # image = "jasmine william morris.jpg"  # Name of image in `static/media/`.
@@ -37,9 +37,7 @@ subtitle = "Indexing"
   
   header:
   image: "jasmine william morris.jpg"
-  alt_text: "Image credit: Jasmine by [William Morris] (https://www.rawpixel.com/image/496132/free-illustration-image-william-morri-pattern-william-morris)"
-
-  
+    
   # Text color (true=light or false=dark).
   text_color_light = true
 
