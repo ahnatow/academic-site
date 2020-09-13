@@ -24,9 +24,9 @@ subtitle = "Indexing"
   # Background color.
   # color = "navy"
   
-  Background gradient.
-  gradient_start = "ffffff"
-  gradient_end = "dfdfdf"
+  # Background gradient.
+  gradient_start = "FFFFFF"
+  gradient_end = "DFDFDF"
   
   # Background image.
   # image = "jasmine william morris.jpg"  # Name of image in `static/media/`.
@@ -53,7 +53,7 @@ subtitle = "Indexing"
 
 Indexing services for academic, business, and personal projects. 
 
-Heading 2
+## Heading 2
 **Services.**
 Detailed and nuanced indexes that include the big picture, themes, and abstract points in addition to key terms.
 Emphasis on reader experience.
