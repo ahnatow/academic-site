@@ -24,7 +24,7 @@ subtitle = "Indexing"
   # Background color.
   # color = "navy"
   
-  # Background gradient.
+  Background gradient.
   gradient_start = "ffffff"
   gradient_end = "dfdfdf"
   
@@ -35,8 +35,8 @@ subtitle = "Indexing"
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
-  header:
-  image: "jasmine william morris.jpg"
+  Header.
+  image = "jasmine william morris.jpg"
     
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -69,6 +69,7 @@ Firsthand knowledge of the essential role indexes play, from research to the sem
 Indexes for reports, white papers, guides, and other documents, whether internal or outward-facing. Appreciation that quickly locating key information is essential whether within the office or for one’s clients. 
 
 **Personal.** 
+
 Indexes for memoirs or independent research projects that support your work and aid your readers. 
 
 **About me.**
