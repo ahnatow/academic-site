@@ -9,7 +9,8 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Andrew Hnatow"
-subtitle = "Indexing Services<br> for academic, business, and personal projects. "
+subtitle = "Indexing Services<br> for academic, business, and personal projects
+<br>![Larkspur by William Morris](/static/media/larkspur morris.jpg "Larkspur by William Morris"). "
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
