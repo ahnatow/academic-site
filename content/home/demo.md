@@ -52,12 +52,6 @@ subtitle = "Indexing"
 
 Indexing services for academic, business, and personal projects. 
 
-PhD in History. 
-
-BA in French and History, Phi Beta Kappa.
-
-Experience working at university presses as well as freelance copy editing and indexing.
-
 **Services.**
 Detailed and nuanced indexes that include the big picture, themes, and abstract points in addition to key terms.
 Emphasis on reader experience.
