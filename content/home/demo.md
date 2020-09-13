@@ -30,14 +30,14 @@ subtitle = "Indexing Services<br> for academic, business, and personal projects.
   
   # Background image.
    image = "larkspur morris.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.1 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.5 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "left"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = light
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
