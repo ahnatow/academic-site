@@ -25,8 +25,8 @@ subtitle = "Indexing"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "FFFFFF"
-  gradient_end = "DFDFDF"
+  # gradient_start = "FFFFFF"
+  # gradient_end = "DFDFDF"
   
   # Background image.
   # image = "jasmine william morris.jpg"  # Name of image in `static/media/`.
