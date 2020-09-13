@@ -78,6 +78,6 @@ BA in French and History, Phi Beta Kappa.
 Experience working at university presses as well as freelance copy editing and indexing.
 
 
-Please contact to discuss terms appropriate to your project.
+Please contact to discuss terms appropriate to your project, either through the form below or via [email](mailto:andrew.hnatow@gmail.com?subject=Index%20Query)
 
 Willing to discuss terms for projects requiring rapid turnaround.
