@@ -10,7 +10,7 @@ primary_light = "#545454"
 primary_dark = "#545454"
 
 # Menu
-menu_primary = "#fafadc"
+menu_primary = "#ffe4e1"
 menu_text = "#bbbbbb"
 menu_text_active = "#bbbbbb"
 menu_title = "#bbbbbb"
